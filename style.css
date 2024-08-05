@@ -4,48 +4,9 @@
     box-sizing: border-box;
 }
 body {
-    background-image: url(pexels-pixabay-206359.jpg);
+    background-image: url(pexels-photo-440731.jpeg);
+    width: 100vw;
+    height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
-}
-section {
-    width: 60vw;
-    background-color: rgba(255, 255, 255, 0.227);
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.186);
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    border-radius: 10px;
-    padding-left: 15px;
-}
-h1, h2 {
-    color: white;
-    font-size: 2em;
-    font-weight: bolder;
-    text-align: center;
-    padding: 10px;
-    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.375);
-}
-p {
-    color: white;
-    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.375);
-}
-#espaco {
-    padding-top: 15px;
-}
-#email, #senha {
-    margin: 10px;
-    background-color: black;
-    outline: none;
-    color: white;
-    border-radius: 10px;
-    border: none;
-    width: 50vw;
-    height: 5vh;
-    padding-left: 15px;
-}
-.title {
-    padding-left: 13px;
-    font-size: 1.2em;
 }
